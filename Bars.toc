@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: Bars
+## Author: Harmenszoon
+## Notes: Customize bars and HUD visibility in Blizzard Edit Mode.
+## Version: 0.7.2
+## Dependencies: Blizzard_EditMode, Blizzard_ActionBar, Blizzard_MainMenuBarBagButtons, Blizzard_MicroMenu
+## SavedVariables: BarsLayouts, BarsBorders, BarsDB
+## SavedVariablesPerCharacter: BarsCharacterLayouts, BarsCharacterBorders
+
+Borders.lua
+Utility.lua
+Fade.lua
+Visibility.lua
+Settings.lua
+Bars.lua
